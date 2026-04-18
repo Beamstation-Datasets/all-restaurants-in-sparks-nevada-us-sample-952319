@@ -1,0 +1,12 @@
+{
+  "export_job_id": "6ff8a55f-7683-4d97-9bb4-d24b5457ff21",
+  "id_short": 952319,
+  "published_at": "2026-04-18T07:17:04Z",
+  "repo_name": "all-restaurants-in-sparks-nevada-us-sample-952319",
+  "sample_asset_name": "beamstation_952319_restaurants-us-nv_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/952319/beamstation_952319_restaurants-us-nv_SAMPLE_DIST.csv",
+  "sample_records": 27,
+  "sample_sha256": "6dc117e5cce4bd7cc4565cf32054bb9cbf1b5f37ea251ba95f25713c6893b6a3",
+  "sample_size_bytes": 110567,
+  "total_records": 270
+}
