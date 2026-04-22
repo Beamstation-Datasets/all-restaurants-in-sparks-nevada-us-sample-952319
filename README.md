@@ -1,6 +1,6 @@
 # All Restaurants in Sparks, Nevada, US
 
-> Free BeamStation sample export with 27 rows and masked direct-contact fields.
+> Free BeamStation sample export with 24 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `952319` |
 | Location | Sparks |
 | Category | Restaurants |
-| Full dataset size | 270 records |
-| Free sample size | 27 records (10.0%) |
-| Last export | 2026-04-14T18:23:40.680906+00:00 |
+| Full dataset size | 246 records |
+| Free sample size | 24 records (9.76%) |
+| Last export | 2026-04-21T20:13:41.694573+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-sparks-nevada-us-sample-952319/releases/download/sample-latest/beamstation_952319_restaurants-us-nv_SAMPLE_DIST.csv) |
 
 ## What is in this sample
